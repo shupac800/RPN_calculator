@@ -1,0 +1,20 @@
+h1 {
+  font-size: 1.4em;
+  font-family: "Arial", sans-serif;
+}
+
+#calcwin {
+  width: 200px;
+  height: 100px;
+  border: 1px solid #999;
+  box-shadow: 10px 10px 22px -15px rgba(0,0,0,0.75);
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.rpnLine {
+  font-family: "Lucida Console", monospace;
+  font-size: 1.4em;
+  padding: 0;
+  margin: 0;
+}
